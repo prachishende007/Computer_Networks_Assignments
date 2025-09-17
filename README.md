@@ -30,7 +30,7 @@ The project demonstrates the design, configuration, and analysis of computer net
 
 ---
 
-##🧪 Testing the Networks
+## 🧪 Testing the Networks
 1.Use ping between devices to verify connectivity.<br>
 2.Switch to Simulation Mode to observe packet flow.<br>
 3.Check device configurations (ipconfig, routing tables, etc.) inside Packet Tracer.<br>
