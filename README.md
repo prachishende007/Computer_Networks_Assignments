@@ -22,7 +22,7 @@ The project demonstrates the design, configuration, and analysis of computer net
 1. Install **Cisco Packet Tracer** (version 8.x recommended).
 2. Clone this repository:<br>
    bash<br>
-   git clone https://github.com/username/computer-networks-assignment.git<br>
+   git clone https://github.com/prachishende007/Computer_Networks_Assignments.git<br>
    cd computer-networks-assignment/pkt_files
 3.Open .pkt files in Packet Tracer:<br>
   Go to File → Open<br>
