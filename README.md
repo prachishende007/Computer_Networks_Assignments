@@ -32,7 +32,7 @@ network devices to be used and their specification details<br>
   - IP addressing
   - Routing (Static/Dynamic)
   - VLANs and Switching
-  - DHCP, DNS, HTTP, etc. (if implemented)
+  - DHCP, DNS, HTTP, etc. 
 - Connectivity testing using **ping, traceroute, and simulation mode**.
 
 ---
