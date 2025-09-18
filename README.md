@@ -7,6 +7,25 @@ The project demonstrates the design, configuration, and analysis of computer net
 
 ---
 
+## Assignments 
+1. Design network for any given organization on paper. Suggest IP address scheme to be used,
+network devices to be used and their specification details<br>
+2. Network Representation on Network Simulator tool<br>
+3. Configure classful routing<br>
+4. Configure classless routing<br>
+5. Configure OSPF, BGP with at least 4 routers on the network<br>
+6. Configure EIGRP with at least 4 routers on the network<br>
+7. Configure VLAN using layer 3 switches<br>
+8. Write chat application using TCP and UDP protocols<br>
+9. Configure DHCP Server<br>
+10. Configure DNS Server<br>
+11. Configure HTTP Server<br>
+12. Configure FTP Server<br>
+13. Analyze different packets using protocol analyzer tool<br>
+14. Configure HTTP Server on AWS Cloud.<br>
+
+---
+
 ## ⚙️ Features
 - Network topologies designed in **Cisco Packet Tracer**.
 - Configurations of:
